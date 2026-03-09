@@ -1,0 +1,86 @@
+// Copyright (C) 2006 Andrew Poženel
+// Slovenian/Slovene language file for InstallForge
+
+[Main]
+Title= Namestitev programa <appname>
+
+[Gadgets]
+NextBtn = Naprej >
+CancelBtn = Prekliči
+BackBtn = < Nazaj
+FinishBtn = Dokončaj
+BrowseBtn = Prebrskaj...
+AcceptOptn = Sprejemam sporazum
+DoNotAcceptOptn = Ne sprejemam sporazuma
+CreateDesktopIconCbx = Ustvari ikono na namizju
+CreateStartMenuFolderCbx = Ustvari mapo v začetnem meniju
+LaunchProgramCbx = Zaženi
+RebootCbx = Ponovno zaženi računalnik zdaj
+DestinationFolderFR3 = Ciljna mapa
+SelAppFolder = Izberite mapo aplikacije:
+SelStartMenuFolder = Izberite mapo začetnega menija:
+
+[Messages]
+ExitSetupH = Izhod iz namestitve
+ExitSetup = Ali želite preklicati namestitev?
+CouldNotExtractFileH = Napaka
+CouldNotExtractFile = Datoteke ni mogoče razširiti!
+
+[Start]
+Title = Dobrodošli v čarovniku za namestitev <appname>
+Text = To bo namestilo <appname> <appversion> na vaš računalnik. Priporočljivo je, da pred nadaljevanjem zaprete vse druge aplikacije. Kliknite Naprej za nadaljevanje.
+
+[LicenceAgreement]
+HeadT = Licenčni sporazum
+HeadB = Pred nadaljevanjem preberite naslednje pomembne informacije.
+Text1 = Preberite naslednji licenčni sporazum. Za nadaljevanje namestitve morate sprejeti pogoje tega sporazuma.
+
+[ApplicationFolder]
+HeadT = Izberite mapo aplikacije
+HeadB = Izberite mapo za namestitev.
+Text1 = Program za namestitev bo namestil <appname> v mapo, prikazano spodaj.
+Text2 = Za nadaljevanje kliknite Naprej. Če želite izbrati drugo mapo, kliknite Prebrskaj.
+Text3 = Zahtevan prosti prostor:
+Text4 = Razpoložljiv prosti prostor:
+
+[StartMenuFolder]
+HeadT = Izberite mapo začetnega menija
+HeadB = Kje naj program za namestitev ustvari bližnjice programa?
+Text1 = Program za namestitev bo ustvaril bližnjice programa v naslednji mapi začetnega menija.
+Text2 = Za nadaljevanje kliknite Naprej. Če želite izbrati drugo mapo, kliknite Prebrskaj.
+
+[AdditionalTasks]
+HeadT = Izberite dodatne naloge
+HeadB = Katere dodatne naloge naj se izvedejo?
+Text1 = Izberite dodatne naloge, ki naj jih program za namestitev izvede med nameščanjem <appname>, nato kliknite Naprej.
+Text2 = Dodatne ikone:
+
+[Installing]
+HeadT = Nameščanje
+HeadB = Počakajte, da program za namestitev namesti <appname> na vaš računalnik.
+Text1 = Priprava na namestitev...
+Text2 = Nameščanje...
+Text3 = Konfiguriranje...
+
+[Finish]
+Title = Zaključek čarovnika za namestitev <appname>
+Text1 = Program za namestitev je končal z nameščanjem <appname> na vaš računalnik. Kliknite Dokončaj za izhod iz namestitve.
+
+[SerialCheck]
+HeadT = Uporabniški podatki
+HeadB = Vnesite svoje podatke.
+Text1 = Uporabniško ime:
+Text2 = Organizacija:
+Text3 = Serijska številka:
+
+[Uninstall]
+Header = Stanje odstranjevanja
+Header_b = Počakajte, da se <appname> odstrani z vašega računalnika.
+Uninstalling = Odstranjevanje
+Btn_cancel = Prekliči
+ExitUninstall_T = Odstranitev
+ExitUninstall = Ali želite zapustiti odstranitev?
+Success_T = Odstranitev
+Success = <appname> je bil uspešno odstranjen z vašega računalnika!
+BM_T = Odstranitev
+BM = Ali želite odstraniti <appname> z vašega računalnika?
